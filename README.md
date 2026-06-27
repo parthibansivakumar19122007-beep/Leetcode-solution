@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0027-remove-element) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
