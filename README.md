@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0344-reverse-string) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2383-add-two-integers) |
@@ -102,5 +104,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
