@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
