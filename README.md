@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2383-add-two-integers) |
@@ -106,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -120,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0118-pascals-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
