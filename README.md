@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2556-convert-the-temperature) |
 | [3567-convert-date-to-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3567-convert-date-to-binary) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
