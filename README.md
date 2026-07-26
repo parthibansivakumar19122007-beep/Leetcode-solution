@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0344-reverse-string) |
+| [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3567-convert-date-to-binary) |
