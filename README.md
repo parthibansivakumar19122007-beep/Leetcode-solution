@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1833-find-the-highest-altitude](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
