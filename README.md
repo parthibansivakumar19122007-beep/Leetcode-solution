@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0724-find-pivot-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1580-shuffle-the-array) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
