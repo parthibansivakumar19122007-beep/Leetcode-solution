@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2383-add-two-integers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2383-add-two-integers) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1833-find-the-highest-altitude) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
