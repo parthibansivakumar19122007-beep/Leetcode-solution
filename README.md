@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
