@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
+| [3811-reverse-degree-of-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
