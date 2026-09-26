@@ -1,13 +1,18 @@
 class Solution(object):
     def minimumAbsDifference(self, arr):
-        s=sorted(arr)
-        c=[]
-        d=[]
-        for i in range(len(s)-1):
-            x=abs(s[i]-s[i+1])
-            d.append(x)
-        d.sort()
-        for i in range(len(s)-1):
-            if abs(s[i]-s[i+1])==d[0]:
-                c.append([s[i],s[i+1]])
-        return c
+        arr.sort()
+        c=abs(arr[0]-arr[1])
+        e=[]
+        for i in range(len(arr)-1):
+            if abs(arr[i]-arr[i+1])<c:
+                c=abs(arr[i]-arr[i+1])
+        for i in range(len(arr)-1):
+            d=[]
+            if abs(arr[i]-arr[i+1])==c:
+                d.append(arr[i])
+                d.append(arr[i+1])
+                if d:
+                    e.append(d)
+       
+        return e
+
