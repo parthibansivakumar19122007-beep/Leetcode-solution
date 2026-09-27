@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
