@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1642-water-bottles](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1642-water-bottles) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2556-convert-the-temperature) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
+| [1642-water-bottles](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [3811-reverse-degree-of-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
