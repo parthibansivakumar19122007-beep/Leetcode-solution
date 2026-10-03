@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3567-convert-date-to-binary) |
 | [4275-traffic-signal-color](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/4275-traffic-signal-color) |
+| [4286-valid-digit-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/4286-valid-digit-number) |
 ## Trie
 |  |
 | ------- |
