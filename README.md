@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
+| [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3811-reverse-degree-of-a-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
