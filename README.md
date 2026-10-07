@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0326-power-of-three) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
