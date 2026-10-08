@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0867-transpose-matrix](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
