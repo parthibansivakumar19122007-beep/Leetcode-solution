@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3567-convert-date-to-binary) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
