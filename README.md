@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
