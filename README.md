@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 ## Math
