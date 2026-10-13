@@ -3,12 +3,14 @@ class Solution:
         c=[]
         for i in s:
             if i.isdigit():
-                c.append(int(i))
-        v=list(set(c))
-        v.sort()
-        if len(v)==1:
+                if int(i) not in c:
+                    c.append(int(i))
+        # v=list(set(c))
+        print(c)
+        c.sort()
+        if len(c)<=1:
             return -1
-        if len(v)==0:
-            return -1
+        # if len(c)==0:
+        #     return -1
         else:
-            return v[-2]
+            return c[-2]
