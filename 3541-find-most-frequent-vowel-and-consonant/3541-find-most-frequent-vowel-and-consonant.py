@@ -13,7 +13,6 @@ class Solution:
                     d2[i]=1
                 else:
                     d2[i]+=1
-        print(d2)
         x=max(d1.values(),default=0)
         y=max(d2.values(),default=0)
         return x+y
