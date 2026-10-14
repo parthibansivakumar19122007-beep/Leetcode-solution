@@ -13,6 +13,5 @@ class Solution:
                     d2[i]=1
                 else:
                     d2[i]+=1
-        x=max(d1.values(),default=0)
-        y=max(d2.values(),default=0)
-        return x+y
+        return max(d1.values(),default=0)+max(d2.values(),default=0)
+        
