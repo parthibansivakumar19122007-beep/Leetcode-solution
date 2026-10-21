@@ -9,7 +9,7 @@ class Solution:
             a+=1
             b+=1
         if len(word1)<len(word2):
-            r=r+word2[len(word1):]
+            r=r+word2[a:]
         else:
-            r=r+word1[len(word2):]
+            r=r+word1[b:]
         return r
