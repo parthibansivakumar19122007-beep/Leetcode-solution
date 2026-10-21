@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
