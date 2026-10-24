@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0645-set-mismatch) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1319-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
