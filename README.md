@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
