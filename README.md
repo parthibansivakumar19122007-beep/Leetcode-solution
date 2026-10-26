@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0434-number-of-segments-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0551-student-attendance-record-i) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
