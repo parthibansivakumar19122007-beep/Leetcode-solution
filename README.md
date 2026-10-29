@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1580-shuffle-the-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1833-find-the-highest-altitude](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1833-find-the-highest-altitude) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1970-sorting-the-sentence](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1970-sorting-the-sentence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
