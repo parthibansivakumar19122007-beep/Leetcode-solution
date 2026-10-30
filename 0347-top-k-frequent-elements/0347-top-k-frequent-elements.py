@@ -8,9 +8,11 @@ class Solution:
                 d[i]+=1
         x=dict(sorted(d.items() ,key=lambda x:x[1],reverse=True))
         c=[]
+        count=0
         for i in x:
-            if len(c)==k:
+            if count==k:
                 break
             else:
                 c.append(i)
+                count+=1
         return c
