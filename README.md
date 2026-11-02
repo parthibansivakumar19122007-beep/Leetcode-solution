@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1970-sorting-the-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
