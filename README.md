@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3194-find-words-containing-character) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3811-reverse-degree-of-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3811-reverse-degree-of-a-string) |
 | [4275-traffic-signal-color](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/4275-traffic-signal-color) |
