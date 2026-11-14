@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1651-shuffle-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1748-sum-of-unique-elements](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
