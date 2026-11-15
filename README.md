@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0682-baseball-game) |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/parthibansivakumar19122007-beep/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
