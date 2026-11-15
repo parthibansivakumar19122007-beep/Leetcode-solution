@@ -4,5 +4,6 @@ class Solution:
         m=w/k
         for i in range(k,len(nums)):
             w=w-nums[i-k]+nums[i]
-            m=max(m,w/k)
+            if w/k>m:
+                m=w/k
         return m
